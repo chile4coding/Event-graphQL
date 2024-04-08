@@ -1,0 +1,63 @@
+.auth-form {
+  width: 25rem;
+  max-width: 80%;
+  margin: 5rem auto;
+}
+
+.form-control lable,
+.form-control input {
+  width: 100%;
+  display: block;
+}
+
+.form-control label {
+  margin-bottom: 0.5rem;
+}
+
+.form-control {
+  margin-bottom: 1rem;
+}
+
+.form-control input {
+  height: 1.6rem;
+}
+
+.form-actions button {
+  background: #01d1d1;
+  font: inherit;
+  border: 1px solid #01d1d1;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  box-shadow: 1px 1px 5px rgb(0, 0, 0, 0.26);
+  cursor: pointer;
+}
+
+.form-actions button:hover,
+.form-actions button:active {
+  background-color: #01a7a7;
+
+  border-color: #010101;
+}
+
+.error {
+  color: red;
+  font-size: 0.8rem;
+  border: 1px solid red;
+  border-radius: 5px;
+}
+.success {
+  color: green;
+  font-size: 0.8rem;
+  border: 1px solid green;
+  border-radius: 5px;
+}
+
+.hide {
+  visibility: hidden;
+  padding: 0.5rem;
+}
+.show {
+  visibility: visible;
+  padding: 0.5rem;
+}
