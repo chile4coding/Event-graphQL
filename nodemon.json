@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGODB_USER": "graphl",
+    "MONGODB_PASSWORD": "dY1x3c68lY6NeVzW",
+    "MONGODB_DATABSE_NAME": "graghql",
+    "TOKEN_SECRETE": "mysecrettyyyytyty"
+  }
+}
